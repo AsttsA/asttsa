@@ -1,7 +1,7 @@
 # Hi, I'm Pavel
 * 🔭 Currently working on my blender project <img src ="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender icon" width="16" height="16">
 
-* :bowtie: Learning _Rust_ and _Web Design_
+* :bowtie: Learning _Rust_ and _Web development_
   ```rust
   fn main() {
     println!("Hello World!")
