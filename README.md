@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Pavel
+* 🔭 Currently working on my blender project <img src ="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender icon" width="16" height="16">
 
-<!--
-**AsttsA/asttsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* :bowtie: Learning _Rust_ and _Web Design_
+  ```rust
+  fn main() {
+    println!("Hello World!")
+  }
+  ```
+* My [vk](https://vk.com/pavelroven) <img src ="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" alt="vk icon" width="16" height="16">
+*  My [inst](https://www.instagram.com/biot51/?next=%2F) <img src ="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Inst icon" width="16" height="16">
+*   My [twitter](https://www.instagram.com/biot51/?next=%2F) <img src ="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter icon" width="16" height="16">
+## My activity
+Day | Mon | Tue |  Wed | Thu | Fri | Sat | Sun |
+|---| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+Value | :suspect: | :rage1: | :rage3: | :rage4: | :goberserk: | :feelsgood: | :zzz: |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Будущее :milky_way:
+Заинтерисован в:
+* [Нейроные сети](https://ru.wikipedia.org/wiki/Нейронная_сеть)
+* [Машинное обучение](https://ru.wikipedia.org/wiki/Машинное_обучение)
