@@ -4,7 +4,7 @@
 * :bowtie: Learning _Rust_ and _Web development_
   ```rust
   fn main() {
-    println!("Hello World!")
+    println!("Hello World!");
   }
   ```
 * My [vk](https://vk.com/pavelroven) <img src ="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" alt="vk icon" width="16" height="16">
